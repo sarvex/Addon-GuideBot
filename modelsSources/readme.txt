@@ -1,0 +1,1 @@
+Models of GI-Soldier, machine gun and grenade are in 3dsMax 10 format.
